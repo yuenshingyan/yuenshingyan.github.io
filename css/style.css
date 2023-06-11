@@ -289,7 +289,7 @@ button:focus {
   border-radius: 0px;
   box-shadow: none;
   margin: 0px;
-  background: #ffd200;
+  background: #0095ff;
 }
 
 @media (min-width: 992px) {
@@ -374,7 +374,7 @@ button:focus {
   top: -70px;
   left: 0;
   right: 0;
-  background: #ffd200;
+  background: #0095ff;
   transform: translateY(70px);
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -3725,7 +3725,7 @@ h6 {
   margin: 4px;
   font-weight: 500;
   text-transform: uppercase;
-  background: #ffd200;
+  background: #0095ff;
 }
 
 .newsletter_form .navbar-form .genric-btn:hover {
@@ -3750,7 +3750,7 @@ h6 {
   }
 
   .header_area .navbar {
-    background: #ffd200;
+    background: #0095ff;
   }
 
   .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
@@ -3860,7 +3860,7 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #ffd200;
+  background: #0095ff;
 }
 
 .social_widget .f_title h4 {
